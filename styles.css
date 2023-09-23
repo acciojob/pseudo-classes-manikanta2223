@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+*{
+	padding:1px;
+	margin:0px;
+}
+body{
+	background-color:rgb(135,206,235);
+}
+
+#first{
+	color:white;
+	background-color:black;
+}
+#list{
+	list-style-position:inside;
+}
+#list:first-child{
+	color:white;
+	background-color:black;
+}
+#list:nth-child(2){
+	color:standard;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
